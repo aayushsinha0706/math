@@ -231,6 +231,16 @@ Courses | Duration | Effort | Prerequisites
 [Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | 4-5 hours/week | Probability and Calculus 1C
 [Game Theory II](https://www.coursera.org/learn/game-theory-2) | 5 weeks | 5-6 hours/week |Game Theory
 
+### Discrete and Combinatorial Math
+`For Depth Requirement select at least 3 subjects from the following topics`
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Graph Theory](https://nptel.ac.in/courses/111/106/111106102/) | 8 weeks | 5-6 hours/week | Introduction to Mathematical Thinking, Mathematics for Computer Science and Linear Algebra
+[Introduction to Enumerative Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics) | 8 weeks | 4-5 hours/week | Linear Algebra and Intro to Analysis
+[Algebraic Combinatorics](https://www.coursera.org/learn/enumerative-combinatorics) | 8 weeks | 4-5 hours/week | Mathematics for Computer Science, Intro to Abstract Algebra and Linear Algebra
+[Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms?) | 9 weeks | 7-8 hours/week | [Intro to Comp Sci](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/), Mathematics for Computer Science, [Intro to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+[Analytic Combinatorics](https://www.coursera.org/learn/analytic-combinatorics) | 8 weeks | 7-8 hours/week | Analysis of Algorithms
+[Discrete Optimization](https://www.coursera.org/learn/discrete-optimization?) | 8 weeks | 12-14 hours/week | [Intro to Comp Sci](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/), Mathematics for Computer Science, [Intro to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) and Linear Algebra
 
 ### Mathematical Analysis
 Real analysis, numerical analysis, complex analysis, optimization theory
