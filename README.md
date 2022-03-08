@@ -255,8 +255,8 @@ Courses | Duration | Effort | Prerequisites
 ### Abstract Algebra
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Number Theory](https://math.gordon.edu/ntic/)| 12 weeks | 8-10 hours/week | Intro to Abstract Algebra
-[Applied Category Theory](https://math.gordon.edu/ntic/)| 14 weeks | 8-10 hours/week | Mathematical Maturity (Core Mathematics)
+[Number Theory](https://math.gordon.edu/ntic/ntic/frontmatter-1.html)| 12 weeks | 8-10 hours/week | Intro to Abstract Algebra
+[Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/)| 14 weeks | 8-10 hours/week | Mathematical Maturity (Core Mathematics)
 [Introduction to Commutative Algebra](https://nptel.ac.in/courses/111106098)| 12 weeks | 10-12 hours/week | Intro to Abstract Algebra and Linear Algebra
 [Algebraic Geometry](https://nptel.ac.in/courses/111106097) | 12 weeks | 10-12 hours/week | Introduction to Commutative Algebra and Topology without Tears 
 
