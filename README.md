@@ -247,7 +247,7 @@ Courses | Duration | Effort | Prerequisites
 ### Mathematical Analysis
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Real Analysis](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf), [Textbook solutions](https://minds.wisconsin.edu/handle/1793/6700) | 16 weeks | 14-16 hours/week | Intro to Analysis
+[Real Analysis](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf), [Textbook solutions](https://minds.wisconsin.edu/handle/1793/67009) | 16 weeks | 14-16 hours/week | Intro to Analysis
 [Complex Analysis](https://www.coursera.org/learn/complex-analysis), [Supplemental open source book](https://complex-analysis.com/content/table_of_contents.html) | 8 weeks | 6-12 hours/week |Introduction to Differential Equations, Intro to Analysis
 [Numerical Analysis](https://github.com/lqbrin/tea-time-numerical/blob/master/TeaTimeNumericalAnalysis.pdf?raw=true) | 8 weeks | 6-8 hours/week | Mathematics for CS, Introduction To Analysis and Linear Algebra
 
