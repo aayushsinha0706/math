@@ -213,7 +213,10 @@ Courses | Duration | Effort | Prerequisites
 ### Mathematical Logic
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 15 weeks | 45 hours/week | -
+[Set Theory](https://builds.openlogicproject.org/courses/set-theory/) | 16 weeks | 6-8 hours/week | -
+[Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 15 weeks | 9 hours/week | Corequisite: Set Theory
+[Metalogic : Set, Logic and Computation](https://slc.openlogicproject.org) | 15 weeks | 10 hours/week | Some background in Formal Logic
+[Gödel’s incompleteness theorems and computability](https://ic.openlogicproject.org) | 8 weeks | 15 hours/week | Formal Logic and Metalogic
 
 ### Geometry and Topology
 Courses | Duration | Effort | Prerequisites
