@@ -242,7 +242,12 @@ Courses | Duration | Effort | Prerequisites
 [Discrete Optimization](https://www.coursera.org/learn/discrete-optimization?) | 8 weeks | 12-14 hours/week | [Intro to Comp Sci](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/), Mathematics for Computer Science, [Intro to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/) (or any other Algorithm class) and Linear Algebra
 
 ### Mathematical Analysis
-Real analysis, numerical analysis, complex analysis, optimization theory
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Real Analysis](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf), [Textbook solutions](https://minds.wisconsin.edu/handle/1793/6700)] | 16 weeks | 14-16 hours/week | Intro to Analysis
+[Complex Analysis](https://www.coursera.org/learn/complex-analysis) [Supplemental textbook](https://complex-analysis.com/content/table_of_contents.html) | 8 weeks | 6-12 hours/week |Introduction to Differential Equations, Intro to Analysis
+[Numerical Analysis](https://github.com/lqbrin/tea-time-numerical/blob/master/TeaTimeNumericalAnalysis.pdf?raw=true) | 8 weeks | 6-8 hours/week | Mathematics for CS, Introduction To Analysis and Linear Algebra
+
 
 ### Abstract Algebra
 Abstract algebra, category theory, algebraic geometry and topology
