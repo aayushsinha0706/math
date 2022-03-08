@@ -259,7 +259,30 @@ Courses | Duration | Effort | Prerequisites
 [Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/)| 14 weeks | 8-10 hours/week | Mathematical Maturity (Core Mathematics)
 [Introduction to Commutative Algebra](https://nptel.ac.in/courses/111106098)| 12 weeks | 10-12 hours/week | Intro to Abstract Algebra and Linear Algebra
 [Algebraic Geometry](https://nptel.ac.in/courses/111106097) | 12 weeks | 10-12 hours/week | Introduction to Commutative Algebra and Topology without Tears 
+Computational Neuroscience: Neuronal Dynamics of Cognition
 
+# Mathematical Modeling Project
+
+OSSU is project-focused. The assignments and exams for each course are to prepare you to use your knowledge to solve real-world problems.
+
+What is **Mathematical Modeling**?
+
+Mathematical modeling is the process of using various mathematical structures – graphs, equations, diagrams, scatterplots, tree diagrams, and so forth – to represent real world situations. The model provides an abstraction that reduces a problem to its essential characteristics.
+
+After you've gotten through all of Core Math, parts of Advanced Math relevant to you. You should think about a problem that you can solve using the knowledge you've acquired. Working on modeling project will also validate and consolidate your knowledge. You can create something entirely new, or you can find an existing problems via websites like M3C and COMAP. Students can work in groups or individually as well.
+
+Students who would like more guidance in creating a project may choose to use a series of project oriented courses. Here is a sample of options (many more are available, at this point you should be capable of identifying a series that is interesting and relevant to you):
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Computational Sciences : Modeling and Simulation](https://repository.dinus.ac.id/docs/ajar/Shiflet_(2014)_-_Introductin_to_Computational_Science,_Modeling_and_Simlation_for_Sciences_2nd_Edition.pdf), [Website](https://ics.wofford-ecs.org) | 15 weeks | 10-12 hours/week | Multivariable Calculu
+[Modeling and Simulation in Python](https://allendowney.github.io/ModSimPy/)| 8 weeks | 8-10 hours/week | Single Variable Calculus
+[Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications)| 16 weeks | 9-11 hours/week | Calculus, linear algebra, and probability theory.
+[Mathematical methods for Quantntitative Finance](https://www.edx.org/course/mathematical-methods-for-quantitative-finance)| 12 weeks | 10-12 hours/week | Calculus, Probability and statistics and Linear algebra
+[Mathematical modeling and analysis in biological sciences](https://nptel.ac.in/courses/111107113)| 4 weeks | 9-11 hours/week | Calculus and Introduction to Differential Equations
+[Computational Neuroscience: Neuronal Dynamics of Cognition](https://www.edx.org/course/computational-neuroscience-neuronal-dynamics-of-co)| 5 weeks | 9-11 hours/week | Calculus and Introduction to Differential Equations
+[Infectious Disease Modelling Specialization](https://www.coursera.org/specializations/infectious-disease-modelling)| 12 weeks | 7-8 hours/week | R Programming and Introduction to Differential Equations
+[Dynamical Modeling Methods for Systems Biology](https://www.coursera.org/learn/dynamical-modeling?specialization=systems-biology)| 5 weeks | 9-11 hours/week | ordinary differential equation, partial differential equation, and stochastic.
 
 ## Congratulations
 
