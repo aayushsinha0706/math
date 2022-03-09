@@ -275,7 +275,7 @@ Students who would like more guidance in creating a project may choose to use a 
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Computational Sciences : Modeling and Simulation](https://repository.dinus.ac.id/docs/ajar/Shiflet_(2014)_-_Introductin_to_Computational_Science,_Modeling_and_Simlation_for_Sciences_2nd_Edition.pdf), [Website](https://ics.wofford-ecs.org) | 15 weeks | 10-12 hours/week | Multivariable Calculu
+[Computational Sciences : Modeling and Simulation](https://repository.dinus.ac.id/docs/ajar/Shiflet_(2014)_-_Introductin_to_Computational_Science,_Modeling_and_Simlation_for_Sciences_2nd_Edition.pdf) ([Website](https://ics.wofford-ecs.org)) | 15 weeks | 10-12 hours/week | Multivariable Calculu
 [Modeling and Simulation in Python](https://allendowney.github.io/ModSimPy/)| 8 weeks | 8-10 hours/week | Single Variable Calculus
 [Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications)| 16 weeks | 9-11 hours/week | Calculus, linear algebra, and probability theory.
 [Mathematical methods for Quantntitative Finance](https://www.edx.org/course/mathematical-methods-for-quantitative-finance)| 12 weeks | 10-12 hours/week | Calculus, Probability and statistics and Linear algebra
