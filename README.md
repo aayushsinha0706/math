@@ -66,6 +66,7 @@ just remember that you can't purchase success!
 The curriculum is separated into two parts:
 - [Core Mathematics](#core-mathematics)
 - [Advanced Topics](#advanced-topics)
+- [Mathematical Modeling Project](#mathematucal-modeling-project)
 
 ## Core Mathematics
 
@@ -194,6 +195,7 @@ Once you've completed all courses in Core Mathematics, you are free to take elec
 - Mathematical Logic
 - Geometry
 - Probability and Statistics
+- Discrete and Combinatorial Math
 - Mathematical Analysis
 - Abstract Algebra
 
@@ -259,9 +261,9 @@ Courses | Duration | Effort | Prerequisites
 [Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/)| 14 weeks | 8-10 hours/week | Mathematical Maturity (Core Mathematics)
 [Introduction to Commutative Algebra](https://nptel.ac.in/courses/111106098)| 12 weeks | 10-12 hours/week | Intro to Abstract Algebra and Linear Algebra
 [Algebraic Geometry](https://nptel.ac.in/courses/111106097) | 12 weeks | 10-12 hours/week | Introduction to Commutative Algebra and Topology without Tears 
-Computational Neuroscience: Neuronal Dynamics of Cognition
 
-# Mathematical Modeling Project
+
+## Mathematical Modeling Project
 
 OSSU is project-focused. The assignments and exams for each course are to prepare you to use your knowledge to solve real-world problems.
 
