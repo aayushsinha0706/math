@@ -66,7 +66,7 @@ just remember that you can't purchase success!
 The curriculum is separated into three parts:
 - [Core Mathematics](#core-mathematics)
 - [Advanced Topics](#advanced-topics)
-- [Mathematical Modeling Project](https://github.com/aayushsinha0706/math#mathematical-modeling-project)
+- [Mathematical Modeling Project](#mathematical-modeling-project)
 
 ## Core Mathematics
 
