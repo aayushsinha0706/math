@@ -63,10 +63,10 @@ just remember that you can't purchase success!
 [OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
 
 # Curriculum
-The curriculum is separated into two parts:
+The curriculum is separated into three parts:
 - [Core Mathematics](#core-mathematics)
 - [Advanced Topics](#advanced-topics)
-- [Mathematical Modeling Project](#mathematucal-modeling-project)
+- [Mathematical Modeling Project](https://github.com/aayushsinha0706/math#mathematical-modeling-project)
 
 ## Core Mathematics
 
