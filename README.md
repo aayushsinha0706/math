@@ -233,18 +233,7 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Stochastic Process](https://www.coursera.org/learn/stochasticprocesses) | 9 weeks | 3-4 hours/week | Calculus, Linear Algebra, Probability and Applied Statistics
 [Data Analysis](https://nptel.ac.in/courses/111/104/111104147/) | 12 weeks | 5-6 hours/week | [R Programming](https://nptel.ac.in/courses/111/104/111104100/), Probability and Applied Statistics
-[Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | 4-5 hours/week | Probability and Calculus 1C
-[Game Theory II](https://www.coursera.org/learn/game-theory-2) | 5 weeks | 5-6 hours/week |Game Theory
-
-### Discrete and Combinatorial Math
-`Applied Combinatorics is equivalent to two courses i.e, Enumerative Combinatorics and Graph Theory`
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
 [Applied Combinatorics](https://www.rellek.net/book/app-comb.html) | 16 weeks | 10-12 hours/week | Introduction to Mathematical Thinking, Mathematics for Computer Science , Linear Algebra and Intro to Analysis . Also checkout [Background Material for Combinatorics](https://www.rellek.net/book/app_background.html)
-[Algebraic Combinatorics](https://nptel.ac.in/courses/111106158)  | 8 weeks | 4-5 hours/week | Mathematics for Computer Science, Intro to Abstract Algebra and Linear Algebra
-[Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms?) , [Textbook](https://aofa.cs.princeton.edu/home/) | 9 weeks | 7-8 hours/week | [Intro to Comp Sci](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/), Mathematics for Computer Science, Game Theory 1, [Intro to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/) (or any other Algorithm class)
-[Analytic Combinatorics](https://www.coursera.org/learn/analytic-combinatorics), [Textbook](https://ac.cs.princeton.edu/home/) | 8 weeks | 7-8 hours/week | Analysis of Algorithms
-[Discrete Optimization](https://www.coursera.org/learn/discrete-optimization?) | 8 weeks | 12-14 hours/week | [Intro to Comp Sci](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/), Mathematics for Computer Science, [Intro to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/) (or any other Algorithm class) and Linear Algebra
 
 ### Mathematical Analysis
 Courses | Duration | Effort | Prerequisites
@@ -252,7 +241,6 @@ Courses | Duration | Effort | Prerequisites
 [Real Analysis](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf), [Textbook solutions](https://minds.wisconsin.edu/handle/1793/67009) | 16 weeks | 14-16 hours/week | Intro to Analysis
 [Complex Analysis](https://www.coursera.org/learn/complex-analysis), [Supplemental open source book](https://complex-analysis.com/content/table_of_contents.html) | 8 weeks | 6-12 hours/week |Introduction to Differential Equations, Intro to Analysis
 [Numerical Analysis](https://github.com/lqbrin/tea-time-numerical/blob/master/TeaTimeNumericalAnalysis.pdf?raw=true) | 8 weeks | 6-8 hours/week | Mathematics for CS, Introduction To Analysis and Linear Algebra
-
 
 ### Abstract Algebra
 Courses | Duration | Effort | Prerequisites
