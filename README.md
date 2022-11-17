@@ -232,7 +232,7 @@ Courses | Duration | Effort | Prerequisites
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Stochastic Process](https://www.coursera.org/learn/stochasticprocesses) | 9 weeks | 3-4 hours/week | Calculus, Linear Algebra, Probability and Applied Statistics
-[Data Analysis](https://nptel.ac.in/courses/111/104/111104147/) | 12 weeks | 5-6 hours/week | [R Programming](https://nptel.ac.in/courses/111/104/111104100/), Probability and Applied Statistics
+[Introduction to Statistical Learning](https://www.edx.org/course/statistical-learning) [Textbook](https://www.statlearning.com) | 11 weeks | 3-5 hours/week | First courses in statistics, linear algebra, and computing.
 [Applied Combinatorics](https://www.rellek.net/book/app-comb.html) | 16 weeks | 10-12 hours/week | Introduction to Mathematical Thinking, Mathematics for Computer Science , Linear Algebra and Intro to Analysis . Also checkout [Background Material for Combinatorics](https://www.rellek.net/book/app_background.html)
 
 ### Mathematical Analysis
